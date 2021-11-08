@@ -1,6 +1,6 @@
 ###                                    Hi there 👋 I am Radhika Agarwal
 404 error not found :]
-Trying to code everyday!!
+
 
 <!--
 **radhika2468/radhika2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
