@@ -1,7 +1,7 @@
-###                                    Hi there 👋 I am Radhika Agarwal, a student of 2nd year of UPES , DEHRADUN
-404 error not found :] Please try again!!
-
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Radhika Agarwal</h1>
 <!--
 **radhika2468/radhika2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
