@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika2468&theme=algolia)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radhika2468&theme=algolia&show_icons=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika2468&theme=algolia)](https://git.io/streak-stats)
+
+
 
