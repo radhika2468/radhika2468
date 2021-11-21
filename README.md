@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Radhika Agarwal</h1>
-         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika2468&theme=algolia)](https://git.io/streak-stats)
+         
 
          
 <!--
