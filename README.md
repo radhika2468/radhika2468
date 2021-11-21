@@ -2,6 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Radhika Agarwal</h1>
+         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika2468&theme=algolia)](https://git.io/streak-stats)
+
+         
 <!--
 **radhika2468/radhika2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
