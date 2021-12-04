@@ -2,8 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Radhika Agarwal, from UPES, Dehradun
-I am currently in my 2nd year of Btech course.</h1>
-         
+</h1>
+     I am currently in my 2nd year of Btech course.    
 
          
 <!--
