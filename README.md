@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika24681&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radhika2468&theme=algolia)](https://git.io/streak-stats)
 
 
 
