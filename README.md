@@ -3,7 +3,8 @@
          height="45"
          width="45" />, I'm Radhika Agarwal, from UPES, Dehradun
 </h1>
-     I am currently in my 2nd year of Btech course.    
+     I am currently in my 2nd year of Btech course.   
+     I am doing cyber security and forensics.
 
          
 <!--
